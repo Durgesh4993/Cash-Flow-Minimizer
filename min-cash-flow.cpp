@@ -9,7 +9,6 @@ class bank{
 }; 
 
 int getMinIndex(bank listOfNetAmounts[],int numBanks){  
-    
     int min=INT_MAX, minIndex=-1;
     for(int i=0;i<numBanks;i++){
         if(listOfNetAmounts[i].netAmount == 0) continue;
