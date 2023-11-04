@@ -37,6 +37,7 @@ In our current example we have only three payment modes :
 2. AliPay
 3. Paytm
 
+
 Following is the list of Banks and their supported payment modes :
 1. Bank_of_America &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;- &emsp; Google_Pay, AliPay, Paytm
 2. Wells_Fargo &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;- &emsp; Google_Pay, AliPay
