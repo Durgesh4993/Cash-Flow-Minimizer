@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 class bank{
     public:
     string name;
